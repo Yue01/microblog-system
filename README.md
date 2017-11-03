@@ -1,1 +1,1 @@
-# microblog-system
+# WEB-Java based microblog system
